@@ -2,7 +2,7 @@
 
 Ola, meu nome é Pedro e eu estou estudando programação a 3 anos, e sou um Desenvolvedor Full Stack.
 
-Sou facinado por aprender coisas novas, pensar em soluções e as por em prática.
+Sou fascinado por aprender coisas novas, pensar em soluções e as por em prática.
 
 🔭 Procurando um Estagio.
   

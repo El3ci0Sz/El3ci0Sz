@@ -1,18 +1,16 @@
-<img src="" width="100%">
-
-<div align="center">
-  <a href="https://github.com/El3ci0Sz">
-    <img style="border-radius: 50%;" alt="Cat-Avatar" height="150" src="https://github.com/user-attachments/assets/70762abc-d9d2-46e1-b5ec-953adee499ec">
+<img src="https://github.com/user-attachments/assets/109de247-05a8-4f52-862d-6c5356db4a16" width="100%">
+<img width="3780" height="1890" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/109de247-05a8-4f52-862d-6c5356db4a16" />
   </a>
-  <h1>Welcome here, I'm Pedro! 👋</h1>
   <h3 style="color:#A3B4BF;">Full Stack Developer | Computer Science Student</h3>!
 
 </div>
 
 <!-- Seção de Contato -->
+
 <div align="center" style="margin-top: 10px;">
   <p><strong>Email:</strong> pedro.eleciof@gmail.com | <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pedro-elecio-fernandes-realino/" target="_blank">linkedin.com/in/pedro-elecio-fernandes-realino</a></p>
 </div>
+
 ---
 
 

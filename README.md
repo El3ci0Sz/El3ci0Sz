@@ -1,10 +1,9 @@
 <img width="3780" height="1890" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/2c7db0a9-52ed-4abf-9b0d-98bab990074d" />
+
+---
+
 <div align="center">
-
-<img src="" width="100%">
-  <h3 style="color:#A3B4BF;">Full Stack Developer | Computer Science Student</h3>!
-
-
+  <h3 style="color:#A3B4BF;">Full Stack Developer | Computer Science Student</h3>
 </div>
 
 <!-- Seção de Contato -->

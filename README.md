@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://github.com/El3ci0Sz">
-    <img style="border-radius: 50%;" alt="Daniel-pic" height="150" src="https://user-images.githubusercontent.com/86479460/222490024-992c8c39-4986-45fc-85e5-6c45ccd80e81.png">
+    <img style="border-radius: 50%;" alt="Cat-Avatar" height="150" src="https://github.com/user-attachments/assets/70762abc-d9d2-46e1-b5ec-953adee499ec">
   </a>
   <h1>Welcome here, I'm Pedro! 👋</h1>
-  <h3 style="color:#A3B4BF;">Full Stack Developer | Computer Science Student</h3>
+  <h3 style="color:#A3B4BF;">Full Stack Developer | Computer Science Student</h3>!
+
 </div>
 
 <!-- Seção de Contato -->
@@ -14,8 +15,8 @@
 ---
 
 #### 🏆 About Me
-I enjoy learning new things, solving problems, and turning ideas into real solutions. I'm currently focused on becoming a full stack developer and building practical applications that solve real-world problems.**
-<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"></img>
+**I enjoy learning new things, solving problems, and turning ideas into real solutions. I'm currently focused on becoming a full stack developer and building practical applications that solve real-world problems.**
+<img align="right" height="100" src="https://github.com/user-attachments/assets/4ec9b680-ed02-4eb4-ae1c-f609d49bcbdc"></img>
 
 ---
 
@@ -23,6 +24,10 @@ I enjoy learning new things, solving problems, and turning ideas into real solut
 - **UFV** – Computer Science (Ongoing)
 
 ---
+
+<div style="display: inline-block;">
+  <img height="500" align="right" src="https://github.com/user-attachments/assets/9cce5be3-2a8b-4d31-b96d-bb36eea940f1"></img>
+</div>
 
 #### 🌱 Currently Studying
 - **Languages:** Java, JavaScript, TypeScript
@@ -35,6 +40,8 @@ I enjoy learning new things, solving problems, and turning ideas into real solut
 #### 🚀 Projects (in progress)
 - **Chama** — a mobile app built with Flutter  
 - File management app — helping users decide what to keep or delete, built with Flutter 
+
+---
 
 #### 💻 Personal Projects
 - Developing study-driven applications using Java and Spring
@@ -57,10 +64,10 @@ I enjoy learning new things, solving problems, and turning ideas into real solut
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript">
   <img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Python">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Python">
-</div>
-<img alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"" title="Python">
+  <img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring">
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git">
+  <img alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"title="Flutter">
+  
 </div>
 
 ---

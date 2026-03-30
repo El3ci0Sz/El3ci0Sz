@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/2c7db0a9-52ed-4abf-9b0d-98bab990074d" />
+<img width="3780" height="1890" alt="Your paragraph text (3)" src="https://github.com/user-attachments/assets/e3cad2bd-198a-40aa-9320-d2a398e0d3d2" />
 
 ---
 

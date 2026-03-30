@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/074a1a46-239d-4aca-9890-adce12e67d00" width="100%">
+
 <div align="center">
   <a href="https://github.com/El3ci0Sz">
     <img style="border-radius: 50%;" alt="Cat-Avatar" height="150" src="https://github.com/user-attachments/assets/70762abc-d9d2-46e1-b5ec-953adee499ec">
@@ -11,24 +13,18 @@
 <div align="center" style="margin-top: 10px;">
   <p><strong>Email:</strong> pedro.eleciof@gmail.com | <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pedro-elecio-fernandes-realino/" target="_blank">linkedin.com/in/pedro-elecio-fernandes-realino</a></p>
 </div>
-
-
 ---
 
 
 #### 🏆 About Me
 **I enjoy learning new things, solving problems, and turning ideas into real solutions. I'm currently focused on becoming a full stack developer and building practical applications that solve real-world problems.**
-<img align="right" height="100"  src="https://github.com/user-attachments/assets/736a7125-103e-4ee4-b96d-7af3be75c35e"></img>
+<img align="right" height="100" width="80" src="https://github.com/user-attachments/assets/d0b14de8-1458-47a0-8e04-4218fffb6a5c"></img>
 
 ---
 #### 🎓 Education
 - **UFV** – Computer Science (Ongoing)
 
 ---
-
-<div style="display: inline-block;">
-  <img height="500" align="right" src="https://github.com/user-attachments/assets/9cce5be3-2a8b-4d31-b96d-bb36eea940f1"></img>
-</div>
 
 #### 🌱 Currently Studying
 - **Languages:** Java, JavaScript, TypeScript
@@ -48,6 +44,7 @@
 - Developing study-driven applications using Java and Spring
 - Learning backend development with Node.js for API development
 - Developing small projects to apply new technologies
+<img align="right" height="100"  src="https://github.com/user-attachments/assets/736a7125-103e-4ee4-b96d-7af3be75c35e"></img>
 
 ---
 

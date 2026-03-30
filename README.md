@@ -16,7 +16,7 @@
 
 #### 🏆 About Me
 **I enjoy learning new things, solving problems, and turning ideas into real solutions. I'm currently focused on becoming a full stack developer and building practical applications that solve real-world problems.**
-<img align="right" height="100" src="https://github.com/user-attachments/assets/4ec9b680-ed02-4eb4-ae1c-f609d49bcbdc"></img>
+<img align="right" height="100" src="https://github.com/user-attachments/assets/d0b14de8-1458-47a0-8e04-4218fffb6a5c"></img>
 
 ---
 

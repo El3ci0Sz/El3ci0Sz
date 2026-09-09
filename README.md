@@ -26,16 +26,17 @@
 ---
 
 #### 🌱 Currently Studying
-- **Languages:** Java, JavaScript, TypeScript
-- **Framework:** Spring, Flutter
+- **Languages:** JavaScript / TypeScript
+- **Framework:** NestJs
 - **Runtime:** Node.js
 - **Systems:** Linux
+- **Libraries:** React
 
 ---
 
 #### 🚀 Projects (in progress)
-- **Chama** — a mobile app built with Flutter  
-- File management app — helping users decide what to keep or delete, built with Flutter 
+- **Chama** - A mobile app built with Flutter  
+- **PlesApp** - An app focused on couples
 
 ---
 
